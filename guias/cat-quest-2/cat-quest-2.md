@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cat Quest II
+---
+
 # 🏆 Guia de Platina — Cat Quest II
 ![Cat Quest 2](guias/cat-quest-2/assets/catquest2_cover.png)
 
