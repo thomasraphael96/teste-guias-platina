@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guias de Platina
+---
+
 # 🏆 Guias de Platina
 
 Bem-vindo à biblioteca de guias.
